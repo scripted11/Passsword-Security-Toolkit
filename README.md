@@ -19,7 +19,7 @@ A Python-based cybersecurity toolkit that helps users generate secure passwords,
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/Password-Security-Toolkit.git
+git clone https://github.com/scripted11/Password-Security-Toolkit.git
 cd Password-Security-Toolkit
 python main.py
 ```
