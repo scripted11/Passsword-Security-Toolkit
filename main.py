@@ -1,6 +1,6 @@
 import secrets
 import string 
-import hashlibs
+import hashlib
 
 def generate_password():
     characters = string.ascii_letters + string.digits + string.punctuation
